@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+h1 {
+    background-color:rosybrown;
+    font-size:52;
+}
+div {
+    background-color:skyblue;
+    font-size:32;
+}
+p {
+    background-color: deepskyblue;
+    color:black;
+}
+button {
+    font-size: 30;
+}
